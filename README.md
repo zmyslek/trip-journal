@@ -43,7 +43,7 @@ Travel Journal is a visual and interactive travel log built with Flutter and Map
    ```bash
    git clone https://github.com/zmyslek/travel-journal.git
    cd travel-journal
-````
+
 
 2. **Install dependencies:**
 
